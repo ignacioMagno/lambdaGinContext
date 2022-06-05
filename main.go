@@ -1,4 +1,4 @@
-package customgincontext
+package lambdaGinContext
 
 import (
 	"net/http"
